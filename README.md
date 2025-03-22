@@ -49,7 +49,7 @@ We believe that **everyone has the right to know** what's in the products they u
 
 By demystifying product ingredients, we help consumers make **healthier choices** while driving the industry toward **greater transparency and safer formulations.**
 
-[🔍 Start Scanning Now](https://aropscan.ai)
+[🔍 Start Scanning Now](https://aropscanai.vercel.app/scan)
 
 ---
 
